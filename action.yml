@@ -1,5 +1,5 @@
-name: 'GitHub Action for Node.js'
-description: 'A GitHub Action that runs a Node.js script'
+name: "GitHub Action for Node.js"
+description: "A GitHub Action that runs a Node.js script"
 runs:
-  using: 'node12'
-  main: 'main.js'
+  using: "node12"
+  main: "main.js"
